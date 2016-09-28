@@ -1,0 +1,1 @@
+/home/exchizz/SDU/Skole/7.Semester/VIS1/Lektion3/Excercise/build/CMakeFiles/FFT.dir
